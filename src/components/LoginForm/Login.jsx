@@ -15,7 +15,7 @@ const LoginPage = () => {
       sx={{
         height: "100vh",
         width: "100vw",
-        background: "linear-gradient(to bottom right, #6a11cb, #2575fc)",
+        background: "linear-gradient(to bottom right,rgb(234, 232, 236),rgb(255, 255, 255))",
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
