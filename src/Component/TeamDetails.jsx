@@ -50,7 +50,7 @@ const teamData = {
   },
 
   "Kowsalya": {
-    role: "Role:Project Manager",
+    role: "Role:HR",
     bio: "Kowsalya is a talented designer who focuses on crafting intuitive and aesthetically pleasing user interfaces that ensure an engaging user experience.",
     image: bousi,
     backgroundColor: "#fff0f5"
