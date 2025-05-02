@@ -48,6 +48,13 @@ const teamData = {
     image: jeeva,
     backgroundColor: "#fff9e6"
   },
+
+  "Kowsalya": {
+    role: "Role:Project Manager",
+    bio: "Kowsalya is a talented designer who focuses on crafting intuitive and aesthetically pleasing user interfaces that ensure an engaging user experience.",
+    image: bousi,
+    backgroundColor: "#fff0f5"
+  },
   // Continue similarly for other team members
 };
 

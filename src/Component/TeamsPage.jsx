@@ -55,7 +55,7 @@ export default function TeamsPage() {
           image: jeeva,
         },
         {
-          name: "Kowslya",
+          name: "Kowsalya",
           role: "Testing",
           image: bousi,
         },
