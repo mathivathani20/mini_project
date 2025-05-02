@@ -48,6 +48,12 @@ const teamData = {
     image: jeeva,
     backgroundColor: "#fff9e6"
   },
+  "Kowsalya": {
+    role: "Role: Developer",
+    bio: " Kowsalya is a talented designer who focuses on crafting intuitive and aesthetically pleasing user interfaces that ensure an engaging user experience.",
+    image: jeeva,
+    backgroundColor: "#fff9e6"
+  },
   // Continue similarly for other team members
 };
 
