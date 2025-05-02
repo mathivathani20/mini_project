@@ -21,7 +21,7 @@ const teamData = {
     image: jeeva,
     backgroundColor: "#e6f2ff"
   },
-  "Tamilanban": {
+  "TamilAnban": {
     role: "Role:UI/UX Designer",
     bio: "Tamilanban is a talented designer who focuses on crafting intuitive and aesthetically pleasing user interfaces that ensure an engaging user experience.",
     image: tamil,
