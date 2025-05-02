@@ -54,6 +54,11 @@ export default function TeamsPage() {
           role: "JS developer ",
           image: jeeva,
         },
+        {
+          name: "Kowsalya",
+          role: " developer ",
+          image: bousi,
+        },
       ];
 
   return (
@@ -125,6 +130,7 @@ export default function TeamsPage() {
               {member.role}
             </Typography>
           </CardContent>
+          
         </Card>
       </Grid>
     ))}
