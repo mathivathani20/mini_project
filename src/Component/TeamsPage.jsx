@@ -54,6 +54,11 @@ export default function TeamsPage() {
           role: "JS developer ",
           image: jeeva,
         },
+        {
+          name: "Kowslya",
+          role: "Testing",
+          image: bousi,
+        },
       ];
 
   return (
